@@ -1,6 +1,5 @@
 
 /*
- * https://www.electroniclinic.com/
  * Soil NPK Sensor with Arduino for measuring Nitrogen, Phosphorus, and Potassium
  */
 #include <SoftwareSerial.h>
