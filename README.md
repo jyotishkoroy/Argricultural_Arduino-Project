@@ -1,1 +1,1 @@
-The NPK and moisture sensor will collect data from the soil and store the information in SD card. The raw values from the sensors will be sent to the Mobile/ Laptop when connected via USB/ wifi module. The algorithm in the application will calculate the values and give the final Output.
+The NPK and moisture sensor will collect data from the soil and store the information in SD card. The raw values from the sensors will be sent to the Mobile/ Laptop when connected via USB/ Bluetooth module. The algorithm in the application will calculate the values and give the final Output.
